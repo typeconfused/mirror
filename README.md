@@ -1,6 +1,6 @@
 # mirror
 
-| File Name | Description |
+| Original File Name | Description |
 |-----------|-------------|
 | 13660.txt | Exploitation With WriteProcessMemory() Yet Another DEP Trick - Written By Spencer Pratt |
 | 15.VirtualMemory.pdf | Virtual Memory and Address Translation |
@@ -8,15 +8,15 @@
 | 44287-rootkit-analysis-use-case-on-hidedrv.pdf | Sekoia - Rootkit analysis Use case on HideDrv |
 | BlackHat 2013 - Visualizing Page Tables for Hacking Like in the Movies.pdf | Black Hat 2013 Visualizing Page Tables for local Exploitation (CrowdStrike) |
 | CSW2017_QinghaoTang_XinleiYing_vmware_escape.pdf | Escape from VMWare Workstation by using "Heartstone" (CSW 2017) - Marvel Team |
-| D2_01_Andrea_Allievi_Win8.1_Patch_protections.pdf | Understanding and Defeating Windows 8.1 krenel patch protection - Andrea Allievi 2014 |
+| D2_01_Andrea_Allievi_Win8.1_Patch_protections.pdf | Understanding and Defeating Windows 8.1 kernel patch protection - Andrea Allievi 2014 |
 | DEF CON 15 - kernel_wars.pdf | Kernel Wars: Kernel-exploitation demystified DEF CON 15 |
 | DEF CON 25 - Morten-Schenk-Taking-Windows-10-Kernel-Exploitation-to-the-next-level-UPDATED.pdf | Taking Windows 10 Kernel exploitation to the next level - leveraging write-what-where vulnerabilities in creators update - Morten Schenk DEF CON 25 |
-| DEPLIB.pdf | DEPLIB documentation |
-| Dive into exceptions_ caution, this may be hard \u2013 HackMag.pdf | Exception handling deep dive from HackMag |
-| Exploit_Adobe_Flash_Under_the_Latest_Mitigation_Read.pdf | Adobe Flash exploitation under modern mitigations |
-| From a C project through assembly to shellcode.pdf | Guide from C development to shellcode creation |
-| Fundamentals_of_CIL.pdf | Common Intermediate Language fundamentals |
-| GData_Uroburos_RedPaper_EN_v1.pdf | G Data Uroburos malware analysis red paper |
+| DEPLIB.pdf | Defeating DEP the Immunity Debugger way - Pablo Sole |
+| Dive into exceptions_ caution, this may be hard \u2013 HackMag.pdf | Dive into exceptions: caution, this may be hard (HackMag) |
+| Exploit_Adobe_Flash_Under_the_Latest_Mitigation_Read.pdf | Exploit Adobe Flash under the latest mitigation - Yuki Chen (Qihoo 360Vulcan Team) |
+| From a C project through assembly to shellcode.pdf | From a C project, through assembly, to shellcode (hasherezade) |
+| Fundamentals_of_CIL.pdf | Reverse Engineering The fundamentals of CIL |
+| GData_Uroburos_RedPaper_EN_v1.pdf | G Data Uroburos Highly complex espionage software with Russian roots |
 | HARES-WP.pdf | HARES whitepaper |
 | IDA_Pro_Shortcuts.pdf | IDA Pro keyboard shortcuts reference |
 | JDWP Reference.pdf | Java Debug Wire Protocol reference documentation |
