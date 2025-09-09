@@ -2,15 +2,15 @@
 
 | File Name | Description |
 |-----------|-------------|
-| 13660.txt | Text document (content unknown) |
-| 15.VirtualMemory.pdf | Virtual Memory technical documentation |
-| 413_advanced_debugging_and_the_address_sanitizer.pdf | Advanced debugging techniques with Address Sanitizer |
-| 44287-rootkit-analysis-use-case-on-hidedrv.pdf | Rootkit analysis case study on HideDrv |
-| BlackHat 2013 - Visualizing Page Tables for Hacking Like in the Movies.pdf | Black Hat 2013 presentation on page table visualization |
-| CSW2017_QinghaoTang_XinleiYing_vmware_escape.pdf | CSW 2017 paper on VMware escape techniques |
-| D2_01_Andrea_Allievi_Win8.1_Patch_protections.pdf | Windows 8.1 patch protection mechanisms analysis |
-| DEF CON 15 - kernel_wars.pdf | DEF CON 15 presentation on kernel security |
-| DEF CON 25 - Morten-Schenk-Taking-Windows-10-Kernel-Exploitation-to-the-next-level-UPDATED.pdf | DEF CON 25 advanced Windows 10 kernel exploitation techniques |
+| 13660.txt | Exploitation With WriteProcessMemory() Yet Another DEP Trick - Written By Spencer Pratt |
+| 15.VirtualMemory.pdf | Virtual Memory and Address Translation |
+| 413_advanced_debugging_and_the_address_sanitizer.pdf | Advanced debugging and the Address Sanitizer - Apple |
+| 44287-rootkit-analysis-use-case-on-hidedrv.pdf | Sekoia - Rootkit analysis Use case on HideDrv |
+| BlackHat 2013 - Visualizing Page Tables for Hacking Like in the Movies.pdf | Black Hat 2013 Visualizing Page Tables for local Exploitation (CrowdStrike) |
+| CSW2017_QinghaoTang_XinleiYing_vmware_escape.pdf | Escape from VMWare Workstation by using "Heartstone" (CSW 2017) - Marvel Team |
+| D2_01_Andrea_Allievi_Win8.1_Patch_protections.pdf | Understanding and Defeating Windows 8.1 krenel patch protection - Andrea Allievi 2014 |
+| DEF CON 15 - kernel_wars.pdf | Kernel Wars: Kernel-exploitation demystified DEF CON 15 |
+| DEF CON 25 - Morten-Schenk-Taking-Windows-10-Kernel-Exploitation-to-the-next-level-UPDATED.pdf | Taking Windows 10 Kernel exploitation to the next level - leveraging write-what-where vulnerabilities in creators update - Morten Schenk DEF CON 25 |
 | DEPLIB.pdf | DEPLIB documentation |
 | Dive into exceptions_ caution, this may be hard \u2013 HackMag.pdf | Exception handling deep dive from HackMag |
 | Exploit_Adobe_Flash_Under_the_Latest_Mitigation_Read.pdf | Adobe Flash exploitation under modern mitigations |
