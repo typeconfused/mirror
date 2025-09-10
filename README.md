@@ -17,42 +17,42 @@
 | From a C project through assembly to shellcode.pdf | From a C project, through assembly, to shellcode (hasherezade) |
 | Fundamentals_of_CIL.pdf | Reverse Engineering The fundamentals of CIL |
 | GData_Uroburos_RedPaper_EN_v1.pdf | G Data Uroburos Highly complex espionage software with Russian roots |
-| HARES-WP.pdf | HARES whitepaper |
-| IDA_Pro_Shortcuts.pdf | IDA Pro keyboard shortcuts reference |
-| JDWP Reference.pdf | Java Debug Wire Protocol reference documentation |
-| Jailbreak2019.WhatsUpWithWhatsApp.pdf | 2019 WhatsApp security analysis |
-| PatchGuard Documentation.pdf | Windows PatchGuard documentation |
-| Pulling_MikroTik_into_the_Limelight-RECon-2022.pdf | RECon 2022 MikroTik security research |
-| Tetrane_PatchGuard_Analysis_RS4_v1.01.pdf | Tetrane PatchGuard analysis for RS4 |
-| Token_stealing.pdf | Windows token stealing techniques |
-| Understanding_the_LFH.pdf | Low Fragmentation Heap analysis |
-| Uroburos_EN.pdf | Uroburos malware analysis (English) |
-| VMware Backdoor I_O Port - VM Back.pdf | VMware backdoor I/O port documentation |
-| Windows_81_Kernel_Patch_Protection_Analysis.pdf | Windows 8.1 kernel patch protection analysis |
-| abusing_token_eop_1.0.txt | Token abuse for elevation of privilege |
-| bh-eu-07-eriksson-WP.pdf | Black Hat Europe 2007 Eriksson whitepaper |
-| bh-eu-07-eriksson.pdf | Black Hat Europe 2007 Eriksson presentation |
-| bh-usa-07-eriksson_oberg_nyberg_and_jammar.pdf | Black Hat USA 2007 collaborative paper |
-| bh-win-04-fx.pdf | Black Hat Windows 2004 FX paper |
-| binding-the-daemon-wp.pdf | Daemon binding techniques whitepaper |
-| bypassing-x64-patchguard.pdf | x64 PatchGuard bypass techniques |
-| cve_2018_8611_windows_ktm_exploitation_poc2019.pdf | CVE-2018-8611 Windows KTM exploitation proof of concept |
-| depevasion.pdf | DEP evasion techniques |
-| dimva_paper2.pdf | DIMVA conference paper |
-| egghunt-shellcode.pdf | Egghunter shellcode techniques |
-| formatstring-1.2.pdf | Format string vulnerability exploitation |
-| geometry.pdf | Geometry-related technical document |
-| infiltrate2015.pdf | Infiltrate 2015 conference material |
-| mwri-windows-services-all-roads-lead-to-system-whitepaper.pdf | MWR InfoSecurity Windows services privilege escalation |
-| mwri_security-implications-of-windows-access-tokens_2008-04-14.pdf | MWR InfoSecurity Windows access token security implications |
-| no-nx.pdf | NX bit bypass techniques |
-| slide03.pdf | Technical presentation slides |
-| unicodebo.pdf | Unicode buffer overflow techniques |
-| uninformed_v3a4.pdf | Uninformed magazine volume 3 article 4 |
-| uroburos.pdf | Uroburos malware analysis |
-| us-16-Branco-DPTrace-Dual-Purpose-Trace-For-Exploitability-Analysis-Of-Program-Crashes-wp.pdf | US-CERT 2016 DPTrace crash exploitability analysis |
-| us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level\u2013Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf | US-CERT 2017 Windows 10 kernel exploitation whitepaper |
-| us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level\u2013Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update.pdf | US-CERT 2017 Windows 10 kernel exploitation presentation |
-| win32-shellcode.pdf | Win32 shellcode development guide |
-| winasm-1.0.1.pdf | Windows assembly programming guide |
+| HARES-WP.pdf | HARES: Hardened Anti-Reverse Engineering System |
+| IDA_Pro_Shortcuts.pdf | IDA Pro cheatsheet |
+| JDWP Reference.pdf | Java Debug Wire Protocol Overview |
+| Jailbreak2019.WhatsUpWithWhatsApp.pdf | What's up with WhatsApp: A detailed walk through of reverse engineering CVE-2019-3568 (Maddie Stone) |
+| PatchGuard Documentation.pdf | Uninformed: PatchGuard (Christoph Husse) |
+| Pulling_MikroTik_into_the_Limelight-RECon-2022.pdf | Pulling MikroTik into the Limelight - Demystifying and Jailbreaking RouterOS |
+| Tetrane_PatchGuard_Analysis_RS4_v1.01.pdf | Tetrane Update Analysis of PatchGuard on Windows 10 RS4 |
+| Token_stealing.pdf | Windows access token stealing |
+| Understanding_the_LFH.pdf | Understanding the Low Fragmentation Heap - Chris Valasek BlackHat 2010 |
+| Uroburos_EN.pdf | Hey Uroburos! What's up? - ExaTrack |
+| VMware Backdoor I_O Port - VM Back.pdf | VMware backdoor I/O port |
+| Windows_81_Kernel_Patch_Protection_Analysis.pdf | Windows 8.1 kernel patch protection analysis - Positive Technologies |
+| abusing_token_eop_1.0.txt | Abusing Token Privileges For LPE - drone and breenmachine |
+| bh-eu-07-eriksson-WP.pdf | FreeBSD 802.11 Remote Integer Overflow - BH2007 whitepaper Karl Janmar |
+| bh-eu-07-eriksson.pdf | Kernel Wars: Kernel-exploitation demystified - BH Europe |
+| bh-usa-07-eriksson_oberg_nyberg_and_jammar.pdf | Kernel Wars: Kernel-exploitation demystified - BH USA |
+| bh-win-04-fx.pdf | Practical Win32 and UNICODE exploitation - FX |
+| binding-the-daemon-wp.pdf | Binding the Daemon: FreeBSD Kernel Stack and Heap Exploitation |
+| bypassing-x64-patchguard.pdf | Bypassing PatchGuard on Windows x64 - skape and skywing |
+| cve_2018_8611_windows_ktm_exploitation_poc2019.pdf | Exploiting CVE-2018-8611 Windows Kernel Transaction Manager (KTM) Race Condition Aaron Adams and Cedric Halbronn - Power Of Community 2019 |
+| depevasion.pdf | A DEP evasion technique |
+| dimva_paper2.pdf | Structural Comparion of Executable Objects - Halvar Flake |
+| egghunt-shellcode.pdf | Safely Searching Process Virtual Address Space - skape |
+| formatstring-1.2.pdf | Exploiting Format string vulnerabilities - scut team teso |
+| geometry.pdf | The geometry of Innocent Flesh and Bone: Return-into-libc without function calls (on the x86) |
+| infiltrate2015.pdf | Insection Awesomely exploiting shared memory objects - Alex Ionescu - Infiltrate |
+| mwri-windows-services-all-roads-lead-to-system-whitepaper.pdf | MWR All Roads Lead to SYSTEM |
+| mwri_security-implications-of-windows-access-tokens_2008-04-14.pdf | MWR Security implications of Windows Access Tokens - Luke Jennings |
+| no-nx.pdf | x86-64 buffer overflow exploits and the borrowed code cgunks exploitation technique - Sebastian Krahmer |
+| slide03.pdf | IA-32 Intel 32/64-bit Architecture |
+| unicodebo.pdf | Creating Arbitrary Shellcode in Unicode Expanded Strings - The Venetian Shellcode (NGSS) |
+| uninformed_v3a4.pdf | Kernel-mode Payloads on Windows - bufcheck and skape - Uninformed |
+| uroburos.pdf | Uroburos: the snake rootkit |
+| us-16-Branco-DPTrace-Dual-Purpose-Trace-For-Exploitability-Analysis-Of-Program-Crashes-wp.pdf | DPTrace dual purpose trace for exploitability analysis of program crashes |
+| us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level\u2013Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf | Taking Windows 10 Kernel Exploitation to the next level - leveraging write-what-where vulnerabilities in creators update - Morten Schenk |
+| us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level\u2013Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update.pdf | Taking Windows 10 Kernel Exploitation to the next level - leveraging write-what-where vulnerabilities in creators update - Morten Schenk - presentation |
+| win32-shellcode.pdf | Understanding Windows Shellcode - skape |
+| winasm-1.0.1.pdf | Win32 Assembly Components - The Last Stage of Delirium |
 
