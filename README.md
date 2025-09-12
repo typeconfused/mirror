@@ -6,6 +6,7 @@
 | [15.VirtualMemory.pdf](15.VirtualMemory.pdf) | Virtual Memory and Address Translation |
 | [413_advanced_debugging_and_the_address_sanitizer.pdf](413_advanced_debugging_and_the_address_sanitizer.pdf) | Advanced debugging and the Address Sanitizer - Apple |
 | [44287-rootkit-analysis-use-case-on-hidedrv.pdf](44287-rootkit-analysis-use-case-on-hidedrv.pdf) | Sekoia - Rootkit analysis Use case on HideDrv |
+| [52_Anton_Ivanov_Boris_Larin-EN.pdf](52_Anton_Ivanov_Boris_Larin-EN.pdf) | Momigari Overview of the latest Windows OS kernel exploits found in the wild - Boris Larin (CVE-2018-8611) |
 | [BlackHat 2013 - Visualizing Page Tables for Hacking Like in the Movies.pdf](BlackHat%202013%20-%20Visualizing%20Page%20Tables%20for%20Hacking%20Like%20in%20the%20Movies.pdf) | Black Hat 2013 Visualizing Page Tables for local Exploitation (CrowdStrike) |
 | [CSW2017_QinghaoTang_XinleiYing_vmware_escape.pdf](CSW2017_QinghaoTang_XinleiYing_vmware_escape.pdf) | Escape from VMWare Workstation by using "Heartstone" (CSW 2017) - Marvel Team |
 | [D2_01_Andrea_Allievi_Win8.1_Patch_protections.pdf](D2_01_Andrea_Allievi_Win8.1_Patch_protections.pdf) | Understanding and Defeating Windows 8.1 kernel patch protection - Andrea Allievi 2014 |
