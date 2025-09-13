@@ -22,6 +22,7 @@
 | [IDA_Pro_Shortcuts.pdf](IDA_Pro_Shortcuts.pdf) | IDA Pro cheatsheet |
 | [JDWP Reference.pdf](JDWP%20Reference.pdf) | Java Debug Wire Protocol Overview |
 | [Jailbreak2019.WhatsUpWithWhatsApp.pdf](Jailbreak2019.WhatsUpWithWhatsApp.pdf) | What's up with WhatsApp: A detailed walk through of reverse engineering CVE-2019-3568 (Maddie Stone) |
+| [MallocMaleficarum.txt](MallocMaleficarum.txt) | The Malloc Maleficarum |
 | [PatchGuard Documentation.pdf](PatchGuard%20Documentation.pdf) | Uninformed: PatchGuard (Christoph Husse) |
 | [Pulling_MikroTik_into_the_Limelight-RECon-2022.pdf](Pulling_MikroTik_into_the_Limelight-RECon-2022.pdf) | Pulling MikroTik into the Limelight - Demystifying and Jailbreaking RouterOS |
 | [Tetrane_PatchGuard_Analysis_RS4_v1.01.pdf](Tetrane_PatchGuard_Analysis_RS4_v1.01.pdf) | Tetrane Update Analysis of PatchGuard on Windows 10 RS4 |
