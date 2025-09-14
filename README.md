@@ -25,6 +25,7 @@
 | [MallocMaleficarum.txt](MallocMaleficarum.txt) | The Malloc Maleficarum |
 | [PatchGuard Documentation.pdf](PatchGuard%20Documentation.pdf) | Uninformed: PatchGuard (Christoph Husse) |
 | [Pulling_MikroTik_into_the_Limelight-RECon-2022.pdf](Pulling_MikroTik_into_the_Limelight-RECon-2022.pdf) | Pulling MikroTik into the Limelight - Demystifying and Jailbreaking RouterOS |
+| [Software defense_ safe unlinking and reference count hardening _ MSRC Blog _ Microsoft Security Response Center.pdf](Software defense_ safe unlinking and reference count hardening _ MSRC Blog _ Microsoft Security Response Center.pdf) | Software defense: safe unlinking and reference count hardening (MSRC) |
 | [Tetrane_PatchGuard_Analysis_RS4_v1.01.pdf](Tetrane_PatchGuard_Analysis_RS4_v1.01.pdf) | Tetrane Update Analysis of PatchGuard on Windows 10 RS4 |
 | [Token_stealing.pdf](Token_stealing.pdf) | Windows access token stealing |
 | [Understanding_the_LFH.pdf](Understanding_the_LFH.pdf) | Understanding the Low Fragmentation Heap - Chris Valasek BlackHat 2010 |
