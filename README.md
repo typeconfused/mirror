@@ -28,6 +28,7 @@
 | [Software defense_ safe unlinking and reference count hardening _ MSRC Blog _ Microsoft Security Response Center.pdf](Software defense_ safe unlinking and reference count hardening _ MSRC Blog _ Microsoft Security Response Center.pdf) | Software defense: safe unlinking and reference count hardening (MSRC) |
 | [Tetrane_PatchGuard_Analysis_RS4_v1.01.pdf](Tetrane_PatchGuard_Analysis_RS4_v1.01.pdf) | Tetrane Update Analysis of PatchGuard on Windows 10 RS4 |
 | [Token_stealing.pdf](Token_stealing.pdf) | Windows access token stealing |
+| [bh-usa-07-ferguson-WP.pdf](bh-usa-07-ferguson-WP.pdf) | Understanding the heap by breaking it |
 | [Understanding_the_LFH.pdf](Understanding_the_LFH.pdf) | Understanding the Low Fragmentation Heap - Chris Valasek BlackHat 2010 |
 | [Uroburos_EN.pdf](Uroburos_EN.pdf) | Hey Uroburos! What's up? - ExaTrack |
 | [VMware Backdoor I_O Port - VM Back.pdf](VMware%20Backdoor%20I_O%20Port%20-%20VM%20Back.pdf) | VMware backdoor I/O port |
