@@ -15,6 +15,7 @@
 | [DEPLIB.pdf](DEPLIB.pdf) | Defeating DEP the Immunity Debugger way - Pablo Sole |
 | [Dive into exceptions_ caution, this may be hard – HackMag.pdf](Dive%20into%20exceptions_%20caution,%20this%20may%20be%20hard%20%E2%80%93%20HackMag.pdf) | Dive into exceptions: caution, this may be hard (HackMag) |
 | [Exploit_Adobe_Flash_Under_the_Latest_Mitigation_Read.pdf](Exploit_Adobe_Flash_Under_the_Latest_Mitigation_Read.pdf) | Exploit Adobe Flash under the latest mitigation - Yuki Chen (Qihoo 360Vulcan Team) |
+| [defeat-stackguard.pdf](defeat-stackguard.pdf) | Four different tricks to bypass StackShield and StackGuard protection - Gera |
 | [From a C project through assembly to shellcode.pdf](From%20a%20C%20project%20through%20assembly%20to%20shellcode.pdf) | From a C project, through assembly, to shellcode (hasherezade) |
 | [Fundamentals_of_CIL.pdf](Fundamentals_of_CIL.pdf) | Reverse Engineering The fundamentals of CIL |
 | [GData_Uroburos_RedPaper_EN_v1.pdf](GData_Uroburos_RedPaper_EN_v1.pdf) | G Data Uroburos Highly complex espionage software with Russian roots |
