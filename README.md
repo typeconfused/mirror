@@ -52,6 +52,7 @@
 | [mwri-windows-services-all-roads-lead-to-system-whitepaper.pdf](mwri-windows-services-all-roads-lead-to-system-whitepaper.pdf) | MWR All Roads Lead to SYSTEM |
 | [mwri_security-implications-of-windows-access-tokens_2008-04-14.pdf](mwri_security-implications-of-windows-access-tokens_2008-04-14.pdf) | MWR Security implications of Windows Access Tokens - Luke Jennings |
 | [no-nx.pdf](no-nx.pdf) | x86-64 buffer overflow exploits and the borrowed code cgunks exploitation technique - Sebastian Krahmer |
+| [28479-return-oriented-programming-rop-ftw.pdf](28479-return-oriented-programming-rop-ftw.pdf) | Return-Oriented-Programming (ROP FTW) |
 | [slide03.pdf](slide03.pdf) | IA-32 Intel 32/64-bit Architecture |
 | [unicodebo.pdf](unicodebo.pdf) | Creating Arbitrary Shellcode in Unicode Expanded Strings - The Venetian Shellcode (NGSS) |
 | [uninformed_v3a4.pdf](uninformed_v3a4.pdf) | Kernel-mode Payloads on Windows - bufcheck and skape - Uninformed |
