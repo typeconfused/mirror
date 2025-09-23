@@ -63,3 +63,6 @@
 | [Zero-day_in_Windows_Kernel_Transaction_Manager_CVE-2018-8611_Securelist.pdf](Zero-day_in_Windows_Kernel_Transaction_Manager_CVE-2018-8611_Securelist.pdf) | Zero-day in Windows Kernel Transaction Manager (CVE-2018-8611) - Securelist|
 | [win32-shellcode.pdf](win32-shellcode.pdf) | Understanding Windows Shellcode - skape |
 | [winasm-1.0.1.pdf](winasm-1.0.1.pdf) | Win32 Assembly Components - The Last Stage of Delirium |
+| [Preventing_brute_force_attacks_against_stack_canary_protection_on_networking_servers.pdf](Preventing_brute_force_attacks_against_stack_canary_protection_on_networking_servers.pdf) | Preventing brute force attacks against stack canary protection on networking servers |
+| [cowan.pdf](cowan.pdf) | StackGuard: Automatic Adaptive Detection and Prevention of Buffer-Overflow Attacks |
+| [bittau-brop.pdf](bittau-brop.pdf) | Hacking Blind (ROP) |
