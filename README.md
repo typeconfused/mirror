@@ -80,4 +80,6 @@
 | Technical Analysis of the Pegasus Exploits on iOS | [pegasus-exploits-technical-details.pdf](files/pegasus-exploits-technical-details.pdf) |
 | An rbtree Family Drama: Exploiting a Linux Kernel 0-day Through Red-Black Tree Transformations | [rbtree_family_drama_hexacon_2025.pdf](files/rbtree_family_drama_hexacon_2025.pdf) |
 | JS Security in 2025: New Bugs, New Defenses | [s-92443.pdf](files/s-92443.pdf) |
+| Hacking SQL Server Database Links | [Technical-Article-Hacking-SQL-Server-Database-Links-Setup-and-Attack-Guide.pdf](files/Technical-Article-Hacking-SQL-Server-Database-Links-Setup-and-Attack-Guide.pdf) |
+| Breaking Samsung's Root of Trust: Exploiting Samsung S10 S-Boot | [files/us-20-Chao-Breaking-Samsungs-Root-of-Trust-Exploiting-Samsung-Secure-Boot.pdf](files/files/us-20-Chao-Breaking-Samsungs-Root-of-Trust-Exploiting-Samsung-Secure-Boot.pdf) |
 
