@@ -72,4 +72,11 @@
 | Cisco IOS Router Exploitation | [BHUSA09-Lindner-RouterExploit-PAPER.pdf](BHUSA09-Lindner-RouterExploit-PAPER.pdf) |
 | Cisco ASA Episode 1: A Fragment to rule them all - Exploiting the IKEv1 heap overflow | [Cisco_ASA_Episode_1_IKEv1_exploit_WEB.pdf](Cisco_ASA_Episode_1_IKEv1_exploit_WEB.pdf) |
 | Scoop the Windows 10 pool! | [SSTIC2020-Article-pool_overflow_exploitation_since_windows_10_19h1-bayet_fariello.pdf](SSTIC2020-Article-pool_overflow_exploitation_since_windows_10_19h1-bayet_fariello.pdf) |
-
+| Hardening the C++ Standard Library at Massive Scale | [3773097.pdf](3773097.pdf) |
+| Mystique in the House: The Droid vulnerability chain that owns all your userspace | [CSW22-mystique.pdf](CSW22-mystique.pdf) |
+| Chrome V8 Exploitation hack.lu | [Hack.lu_2024__bRuAasl.pdf](Hack.lu_2024__bRuAasl.pdf) |
+| From vulnerability to the victory: A Chrome Renderer 1-Day Exploit's Journey to v8CTF Glory | [lee_v8-ctf-slides.pdf](lee_v8-ctf-slides.pdf) |
+| ARM MTE Performance in Practice (Extended Version) | [mte-extended.pdf](mte-extended.pdf) |
+| Technical Analysis of the Pegasus Exploits on iOS | [pegasus-exploits-technical-details.pdf](pegasus-exploits-technical-details.pdf) |
+| An rbtree Family Drama: Exploiting a Linux Kernel 0-day Through Red-Black Tree Transformations | [rbtree_family_drama_hexacon_2025.pdf](rbtree_family_drama_hexacon_2025.pdf) |
+| JS Security in 2025: New Bugs, New Defenses | [s-92443.pdf](s-92443.pdf) |
