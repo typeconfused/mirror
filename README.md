@@ -82,4 +82,6 @@
 | JS Security in 2025: New Bugs, New Defenses | [s-92443.pdf](files/s-92443.pdf) |
 | Hacking SQL Server Database Links | [Technical-Article-Hacking-SQL-Server-Database-Links-Setup-and-Attack-Guide.pdf](files/Technical-Article-Hacking-SQL-Server-Database-Links-Setup-and-Attack-Guide.pdf) |
 | Breaking Samsung's Root of Trust: Exploiting Samsung S10 S-Boot | [us-20-Chao-Breaking-Samsungs-Root-of-Trust-Exploiting-Samsung-Secure-Boot.pdf](files/us-20-Chao-Breaking-Samsungs-Root-of-Trust-Exploiting-Samsung-Secure-Boot.pdf) |
-
+| PwIN - Pwning Intel piN - Why DBI is unsuitable for security applications | [kirsch-2018-pwning-intel-pin.pdf](files/kirsch-2018-pwning-intel-pin.pdf) |
+| Dynamic Binary Instrumentation Frameworks: I know you're there spying on me | [corelabs-FalconRiva_2012.pdf](files/corelabs-FalconRiva_2012.pdf) |
+| Windows SMEP Bypass U=S | [Windows SMEP bypass U=S.pdf](files/Windows SMEP bypass U=S.pdf) |
