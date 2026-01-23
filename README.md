@@ -85,3 +85,4 @@
 | PwIN - Pwning Intel piN - Why DBI is unsuitable for security applications | [kirsch-2018-pwning-intel-pin.pdf](files/kirsch-2018-pwning-intel-pin.pdf) |
 | Dynamic Binary Instrumentation Frameworks: I know you're there spying on me | [corelabs-FalconRiva_2012.pdf](files/corelabs-FalconRiva_2012.pdf) |
 | Windows SMEP Bypass U=S | [Windows SMEP bypass U=S.pdf](files/Windows SMEP bypass U=S.pdf) |
+| POPKORN: Popping Windows Kernel Drivers At Scale | [3564625.3564631.pdf](files/3564625.3564631.pdf) |
