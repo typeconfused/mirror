@@ -1,5 +1,5 @@
 # mirror
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="mirror/assets/css/style.css">
 
 | Description | Original File Name |
 |-------------|-----------|
