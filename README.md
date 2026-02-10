@@ -87,9 +87,11 @@
 | Windows SMEP Bypass U=S | [Windows SMEP bypass U=S.pdf](files/Windows SMEP bypass U=S.pdf) |
 | POPKORN: Popping Windows Kernel Drivers At Scale | [3564625.3564631.pdf](files/3564625.3564631.pdf) |
 | Kernel Pool Exploitation on Windows 7 | [BlackHat_DC_2011_Mandt_kernelpool-wp.pdf](files/BlackHat_DC_2011_Mandt_kernelpool-wp.pdf) |
-| Exploiting CVE-2015-2426, and How I Ported it to a Recent Windows 8.1 64-bit | [_2015-08-28_-_ncc_group_-_exploiting_cve_2015_2426_-_release.pdf](files/_2015-08-28_-_ncc_group_-_exploiting_cve_2015_2426_-_release.pdf) |
+| Exploiting CVE-2015-2426, and How I Ported it to a Recent Windows 8.1 64-bit | [_2015-08-28_ncc_group_exploiting_cve_2015_2426_release.pdf](files/_2015-08-28_ncc_group_exploiting_cve_2015_2426_release.pdf) |
 | Windows Process Injection in 2019 | [us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf](files/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf) |
 | Abusing Privileged and Unprivileged Linux Containers | [_container_whitepaper.pdf](files/_container_whitepaper.pdf) |
 | Understanding and Hardening Linux Containers | [_ncc_group_understanding_hardening_linux_containers-1-1.pdf](files/_ncc_group_understanding_hardening_linux_containers-1-1.pdf) |
+| Advanced Threat Analytics: Attack Simulation Playbook for ATA 1.8 | [ATA_Playbook_for_ATA_1.8.pdf](files/ATA_Playbook_for_ATA_1.8.pdf) |
 
+<link rel="stylesheet" href="/assets/css/style.css">
 
