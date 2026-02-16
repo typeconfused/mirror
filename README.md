@@ -93,4 +93,5 @@
 | Abusing Privileged and Unprivileged Linux Containers | [_container_whitepaper.pdf](files/_container_whitepaper.pdf) |
 | Understanding and Hardening Linux Containers | [_ncc_group_understanding_hardening_linux_containers-1-1.pdf](files/_ncc_group_understanding_hardening_linux_containers-1-1.pdf) |
 | Advanced Threat Analytics: Attack Simulation Playbook for ATA 1.8 | [ATA_Playbook_for_ATA_1.8.pdf](files/ATA_Playbook_for_ATA_1.8.pdf) |
+| Energy Sector Incident Report - 29 December | [CERT_Polska_Energy_Sector_Incident_Report_2025.pdf](files/CERT_Polska_Energy_Sector_Incident_Report_2025.pdf) |
 
